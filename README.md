@@ -1,4 +1,4 @@
-# Hospital Information System
+# West Springfield - Hospital Information System
 
-## Operation Database, Data Warehouse, ETL, Dashboard
+### Operation Database, Data Warehouse, ETL, Dashboard
 
