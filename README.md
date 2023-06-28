@@ -13,11 +13,11 @@ The main objective of this project is to develop a robust reporting system that 
 ### Technologies Used
 The project utilizes the following technologies:
 
-(`<br>`)Database: Microsoft SQL Server Management Studio (SSMS)
-(`<br>`)ETL: SQL Server Integration Services (SSIS)
-(`<br>`)Data Warehouse: Microsoft SQL Server Management Studio (SSMS)
-(`<br>`)Business Intelligence Tool: Tableau Desktop
-(`<br>`)Other Tools: DRAW.io (for diagramming), Codebeautify (for code formatting)
+<br />Database: Microsoft SQL Server Management Studio (SSMS)
+<br />ETL: SQL Server Integration Services (SSIS)
+<br />Data Warehouse: Microsoft SQL Server Management Studio (SSMS)
+<br />Business Intelligence Tool: Tableau Desktop
+<br />Other Tools: DRAW.io (for diagramming), Codebeautify (for code formatting)
 
 ### Contributing
 Contributions to the project are welcome! If you find any issues, bugs, or have suggestions for improvements, please feel free to open an issue or submit a pull request. Let's work together to enhance the functionality and usability of the reporting system.
