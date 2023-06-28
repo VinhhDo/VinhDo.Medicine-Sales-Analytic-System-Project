@@ -10,21 +10,14 @@ Welcome to the West Springfield Hospital Reporting System project! This project 
 ### Objective
 The main objective of this project is to develop a robust reporting system that enables efficient management and analysis of medicine sales data at West Springfield Hospital. The system will provide hospital administrators and staff with valuable insights and actionable information to make informed decisions regarding inventory management, sales performance, and overall business operations.
 
-### Components
-The project comprises the following components:
-Operation Database 
-Data Warehouse 
-ETL
-Dashboard
-
 ### Technologies Used
 The project utilizes the following technologies:
 
-*Database: Microsoft SQL Server Management Studio (SSMS)
-*ETL: SQL Server Integration Services (SSIS)
-*Data Warehouse: Microsoft SQL Server Management Studio (SSMS)
-*Business Intelligence Tool: Tableau Desktop
-*Other Tools: DRAW.io (for diagramming), Codebeautify (for code formatting)
+(`<br>`)Database: Microsoft SQL Server Management Studio (SSMS)
+(`<br>`)ETL: SQL Server Integration Services (SSIS)
+(`<br>`)Data Warehouse: Microsoft SQL Server Management Studio (SSMS)
+(`<br>`)Business Intelligence Tool: Tableau Desktop
+(`<br>`)Other Tools: DRAW.io (for diagramming), Codebeautify (for code formatting)
 
 ### Contributing
 Contributions to the project are welcome! If you find any issues, bugs, or have suggestions for improvements, please feel free to open an issue or submit a pull request. Let's work together to enhance the functionality and usability of the reporting system.
