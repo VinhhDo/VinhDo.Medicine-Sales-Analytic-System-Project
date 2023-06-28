@@ -40,7 +40,9 @@ In addition to the operational database, a star schema data warehouse has been i
 #### ETL Component with SSIS:
 To extract data from various sources, transform it according to the required format, and load it into the data warehouse, an ETL component has been implemented using SSIS.
 
-![image](https://github.com/VinhhDo/VinhDo.github.io/assets/98499217/d7583c86-86df-4c9d-a36c-76c067d2df19)
+<p align="center">
+  <img src="https://github.com/VinhhDo/VinhDo.github.io/assets/98499217/d7583c86-86df-4c9d-a36c-76c067d2df19">
+</p>
 
 
 #### Tableau Dashboard:
