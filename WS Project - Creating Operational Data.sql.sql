@@ -1,5 +1,5 @@
 --WS Project - Creating Operational Database
-![Database ERD - WS Hospital](https://github.com/VinhhDo/VinhDo.github.io/assets/98499217/7c9e3e5c-9a04-4898-bea5-04366105362c)
+![Database ERD - WS Hospital](https://github.com/VinhhDo/VinhDo.github.io/assets/98499217/d1cf48cb-97d0-4217-a4a3-7f67a45ddadd)
 
 
 --Parent Tables (Table without foreign key)
