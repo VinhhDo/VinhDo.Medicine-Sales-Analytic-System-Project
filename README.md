@@ -12,7 +12,6 @@ The main objective of this project is to develop a robust reporting system that 
 
 ### Technologies Used
 The project utilizes the following technologies:
-
 <br />Database: Microsoft SQL Server Management Studio (SSMS)
 <br />ETL: SQL Server Integration Services (SSIS)
 <br />Data Warehouse: Microsoft SQL Server Management Studio (SSMS)
