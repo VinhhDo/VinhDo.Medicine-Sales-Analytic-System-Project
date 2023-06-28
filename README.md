@@ -1,4 +1,4 @@
-# West Springfield - Hospital Information & Anlytic System
+# West Springfield - Hospital Information & Analytic System
 
 
 ## Project Introduction: West Springfield Hospital Reporting System
