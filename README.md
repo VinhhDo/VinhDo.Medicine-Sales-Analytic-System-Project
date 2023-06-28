@@ -7,7 +7,7 @@ Welcome to the West Springfield Hospital Reporting System project! This project 
 
 
 ## Objective
-The main objective of this project is to develop a robust reporting system that enables efficient management and analysis of medicine sales data at West Springfield Hospital. The system will provide hospital administrators and staff with valuable insights and actionable information to make informed decisions regarding inventory management, sales performance, and overall business operations.
+The main objective of this project is to develop a robust reporting system that enables efficient management and analysis of medicine sales data at West Springfield Hospital. The system will provide hospital executives and purchasing staff with valuable insights and actionable information to make informed decisions regarding inventory management, sales performance, and overall business operations.
 
 ## Technologies Used
 The project utilizes the following technologies:
