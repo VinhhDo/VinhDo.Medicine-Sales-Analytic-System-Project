@@ -22,7 +22,7 @@ Contributions to the project are welcome! If you find any issues, bugs, or have 
 
 ![Project Outline](https://github.com/VinhhDo/VinhDo.github.io/assets/98499217/e5ba5621-b067-4682-b119-281d5e4f1954)
 
-### Operational Database: WS Project - Creating Operational Data.sql.sql
+### Operational Database: [WS Project - Creating Operational Data.sql.sql](https://github.com/VinhhDo/VinhDo.github.io/blob/71c71a0690ccec6eb4b0a5b0cb031585e170c556/SSMS%20-%20Creating%20Operational%20Data.sql.sql)
 The operational database is built based on the principles of normalization, specifically achieving third normal form (NF3). It serves as the foundation for recording and managing various aspects of medicine sales, including suppliers, medicines, patients, appointments, reports, and more. The database ensures data integrity and supports efficient transaction processing.
 
 ![Database ERD - WS Hospital](https://github.com/VinhhDo/VinhDo.github.io/assets/98499217/7c9e3e5c-9a04-4898-bea5-04366105362c)
