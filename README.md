@@ -25,6 +25,9 @@ Data Warehouse: [Specify the data warehousing technology used, e.g., Snowflake]
 Business Intelligence Tool: [Specify the tool used, e.g., Tableau]
 Programming Languages: [Specify any programming languages used, e.g., SQL, Python]
 
+### Contributing
+Contributions to the project are welcome! If you find any issues, bugs, or have suggestions for improvements, please feel free to open an issue or submit a pull request. Let's work together to enhance the functionality and usability of the reporting system.
+
 ![Project Outline](https://github.com/VinhhDo/VinhDo.github.io/assets/98499217/e5ba5621-b067-4682-b119-281d5e4f1954)
 
 #### Operational Database:
