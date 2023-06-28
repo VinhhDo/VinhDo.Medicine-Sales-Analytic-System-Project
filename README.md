@@ -1,6 +1,8 @@
 # West Springfield - Hospital Information System
 
 ### Operation Database, Data Warehouse, ETL, Dashboard
+Project Introduction: West Springfield Hospital Reporting System
+Welcome to the West Springfield Hospital Reporting System project! This project aims to provide a comprehensive solution for managing the sale of medicine at West Springfield Hospital. The system consists of an operational database, a star schema data warehouse, and a dashboard built using Tableau.
 
 ![Project Outline](https://github.com/VinhhDo/VinhDo.github.io/assets/98499217/e5ba5621-b067-4682-b119-281d5e4f1954)
 
