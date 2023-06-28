@@ -20,11 +20,11 @@ Dashboard
 ### Technologies Used
 The project utilizes the following technologies:
 
-Database: Microsoft SQL Server Management Studio (SSMS)
-ETL: SQL Server Integration Services (SSIS)
-Data Warehouse: Microsoft SQL Server Management Studio (SSMS)
-Business Intelligence Tool: Tableau Desktop
-Other Tools: DRAW.io (for diagramming), Codebeautify (for code formatting)
+*Database: Microsoft SQL Server Management Studio (SSMS)
+*ETL: SQL Server Integration Services (SSIS)
+*Data Warehouse: Microsoft SQL Server Management Studio (SSMS)
+*Business Intelligence Tool: Tableau Desktop
+*Other Tools: DRAW.io (for diagramming), Codebeautify (for code formatting)
 
 ### Contributing
 Contributions to the project are welcome! If you find any issues, bugs, or have suggestions for improvements, please feel free to open an issue or submit a pull request. Let's work together to enhance the functionality and usability of the reporting system.
