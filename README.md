@@ -44,3 +44,8 @@ To present the analyzed data in a visually appealing and user-friendly manner, a
 ![Dashboard-Medicine](https://github.com/VinhhDo/VinhDo.github.io/assets/98499217/1e2de5f2-09df-4e49-87f7-e2b3c38157b6)
 
 
+You're welcome! If you have any more questions or need further assistance, feel free to ask. Good luck with your project!
+
+
+
+
